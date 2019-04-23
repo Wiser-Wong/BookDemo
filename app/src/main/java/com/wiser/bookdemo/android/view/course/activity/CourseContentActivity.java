@@ -3,6 +3,7 @@ package com.wiser.bookdemo.android.view.course.activity;
 import com.wiser.bookdemo.R;
 import com.wiser.bookdemo.android.common.IConstants;
 import com.wiser.bookdemo.android.view.SpecialActivity;
+import com.wiser.bookdemo.frame.MHelper;
 import com.wiser.library.base.WISERActivity;
 import com.wiser.library.base.WISERBuilder;
 import com.wiser.library.helper.WISERHelper;
@@ -22,7 +23,13 @@ import butterknife.BindView;
  */
 public class CourseContentActivity extends WISERActivity<CourseContentBiz> implements BannerPagerView.OnPageChangeListener {
 
-	@BindView(R.id.bpv_page) BannerPagerView bpvPage;
+	@BindView(R.id.bpv_page) BannerPagerView	bpvPage;
+
+	// 记录上次滑动的值
+	private int									lastValue	= -1;
+
+	// 是否左滑
+	private boolean								isLeft		= true;
 
 	// 跳转
 	public static void intent(int type, int indexSkip) {
@@ -48,12 +55,20 @@ public class CourseContentActivity extends WISERActivity<CourseContentBiz> imple
 	}
 
 	@Override public void onPageScrolled(int i, float v, int i1) {
-
+		if (v != 0) {
+			isLeft = lastValue < i1;
+		}
+		lastValue = i1;
 	}
 
 	@Override public void onPageSelected(int i) {
-		if (biz().getIndex() == i) {
-			SpecialActivity.intent("视频路径 或者 名称");
+		if (isLeft) {
+			MHelper.log().e("onPageScrolled", "--->左划");
+			if (biz().getIndex() == i) {
+				SpecialActivity.intent("视频路径 或者 名称");
+			}
+		} else {
+			MHelper.log().e("onPageScrolled", "--->右划");
 		}
 	}
 
