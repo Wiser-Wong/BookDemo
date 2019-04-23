@@ -1,0 +1,38 @@
+{
+  "catalogueList": [
+    {
+      "firstLevelTitle": "第一单元 土地革命",
+      "list": [
+        {
+          "secondLevelTitle": "第1课 砸碎束缚土地的桎桔"
+        },
+        {
+          "secondLevelTitle": "第2课 工农当家做主人"
+        },
+        {
+          "secondLevelTitle": "第3课 分田分地真忙"
+        },
+        {
+          "secondLevelTitle": "第4课 风展红旗如画"
+        }
+      ]
+    },
+    {
+      "firstLevelTitle": "第二单 元武装斗争",
+      "list": [
+        {
+          "secondLevelTitle": "第5课 枪杆子里面出政权"
+        },
+        {
+          "secondLevelTitle": "第6课 当兵就要当红军"
+        },
+        {
+          "secondLevelTitle": "第7课 红军是一所大学校"
+        },
+        {
+          "secondLevelTitle": "第8课 我们是不可战胜的力量"
+        }
+      ]
+    }
+  ]
+}

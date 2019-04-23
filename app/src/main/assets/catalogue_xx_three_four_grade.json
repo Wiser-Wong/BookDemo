@@ -1,0 +1,57 @@
+{
+  "catalogueList": [
+    {
+      "firstLevelTitle": "第一单元 红色歌谣",
+      "list": [
+        {
+          "secondLevelTitle": "第1课 红米饭，南瓜汤"
+        },
+        {
+          "secondLevelTitle": "第2课 打败江西两只“羊”"
+        },
+        {
+          "secondLevelTitle": "第3课 八角楼的灯光"
+        },
+        {
+          "secondLevelTitle": "第4课 苏区干部好作风"
+        },
+        {
+          "secondLevelTitle": "第5课 运动大会歌"
+        }
+      ]
+    },
+    {
+      "firstLevelTitle": "第二单元 红色诗词",
+      "list": [
+        {
+          "secondLevelTitle": "第6课 西江月·井冈山"
+        },
+        {
+          "secondLevelTitle": "第7课 清平乐·会昌"
+        },
+        {
+          "secondLevelTitle": "第8课 咏兰"
+        },
+        {
+          "secondLevelTitle": "第9课 偷渡梅关"
+        },
+        {
+          "secondLevelTitle": "第10课 长征组歌（节选)",
+          "id": 1110,
+          "indexSkip": 3
+        }
+      ]
+    },
+    {
+      "firstLevelTitle": "第三单元 红色故事",
+      "list": [
+        {
+          "secondLevelTitle": "第11课 打响第一枪"
+        },
+        {
+          "secondLevelTitle": "第12课 聂槐妆妙计送盐"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<dimen name="course_cover_height">266.6667dp</dimen>
+	<dimen name="course_name">18.6667dp</dimen>
+	<dimen name="common_title">22.6667sp</dimen>
+	<dimen name="course_history_teacher_series">20.0000sp</dimen>
+	<dimen name="course_catalogue_first_title">21.3333dp</dimen>
+	<dimen name="course_catalogue_second_title">18.6667dp</dimen>
+	<dimen name="common_title_height">66.6667dp</dimen>
+	<dimen name="common_title_height_">65.3333dp</dimen>
+</resources>

@@ -1,0 +1,75 @@
+{
+  "catalogueList": [
+    {
+      "firstLevelTitle": "第一单元 曙光初照",
+      "list": [
+        {
+          "secondLevelTitle": "第1课 播撒火种"
+        },
+        {
+          "secondLevelTitle": "第2课 坚强堡垒"
+        },
+        {
+          "secondLevelTitle": "第3课 工农运动"
+        },
+        {
+          "secondLevelTitle": "第4课 武装暴动"
+        },
+        {
+          "secondLevelTitle": "第5课 伟大会师"
+        },
+        {
+          "secondLevelTitle": "第6课 政治建军"
+        }
+      ]
+    },
+    {
+      "firstLevelTitle": "第二单元 星火燎原",
+      "list": [
+        {
+          "secondLevelTitle": "第7课 井冈山革命根据地"
+        },
+        {
+          "secondLevelTitle": "第8课 中央革命根据地"
+        },
+        {
+          "secondLevelTitle": "第9课 湘赣革命根据地"
+        },
+        {
+          "secondLevelTitle": "第10课 湘鄂赣革命根据地"
+        },
+        {
+          "secondLevelTitle": "第11课 闽浙赣革命根据地"
+        },
+        {
+          "secondLevelTitle": "第12课 东固革命根据地"
+        }
+      ]
+    },
+    {
+      "firstLevelTitle": "第三单元 苦难辉煌",
+      "list": [
+        {
+          "secondLevelTitle": "第13课 四破铁围"
+        },
+        {
+          "secondLevelTitle": "第14课 伟大预演",
+          "id": 1111,
+          "indexSkip": 5
+        },
+        {
+          "secondLevelTitle": "第15课 战略转移"
+        },
+        {
+          "secondLevelTitle": "第16课 浴血坚持"
+        },
+        {
+          "secondLevelTitle": "第17课 铁军出山"
+        },
+        {
+          "secondLevelTitle": "第18课 换了人间"
+        }
+      ]
+    }
+  ]
+}

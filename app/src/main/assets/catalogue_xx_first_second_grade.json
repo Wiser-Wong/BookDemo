@@ -1,0 +1,38 @@
+{
+  "catalogueList": [
+    {
+      "firstLevelTitle": "第一单元 红星闪闪",
+      "list": [
+        {
+          "secondLevelTitle": "第1课 闪亮的红星"
+        },
+        {
+          "secondLevelTitle": "第2课 红军的帽子"
+        },
+        {
+          "secondLevelTitle": "第3课 军章闪耀"
+        },
+        {
+          "secondLevelTitle": "第4课 《红星》报"
+        }
+      ]
+    },
+    {
+      "firstLevelTitle": "第二单元 红旗飘飘",
+      "list": [
+        {
+          "secondLevelTitle": "第5课 中国共产党党旗"
+        },
+        {
+          "secondLevelTitle": "第6课 中国人民解放军军旗"
+        },
+        {
+          "secondLevelTitle": "第7课 我爱国旗"
+        },
+        {
+          "secondLevelTitle": "第8课 我们的队旗"
+        }
+      ]
+    }
+  ]
+}

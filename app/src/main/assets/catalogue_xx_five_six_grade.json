@@ -1,0 +1,55 @@
+{
+  "catalogueList": [
+    {
+      "firstLevelTitle": "第一单元 红色旧址",
+      "list": [
+        {
+          "secondLevelTitle": "第1课 中国工人第一座工会大厦"
+        },
+        {
+          "secondLevelTitle": "第2课 炮声隆隆黄洋界"
+        },
+        {
+          "secondLevelTitle": "第3课 红军第一所正规医院"
+        },
+        {
+          "secondLevelTitle": "第4课 寻乌调查的两层瓦房"
+        },
+        {
+          "secondLevelTitle": "第5课 举行过“开国大典”的谢氏宗祠"
+        }
+      ]
+    },
+    {
+      "firstLevelTitle": "第二单元 红色文物",
+      "list": [
+        {
+          "secondLevelTitle": "第6课 盛满深情的米缸"
+        },
+        {
+          "secondLevelTitle": "第7课 闪闪的党徽"
+        },
+        {
+          "secondLevelTitle": "第8课 红色交通证"
+        },
+        {
+          "secondLevelTitle": "第9课 别样的毕业证书"
+        },
+        {
+          "secondLevelTitle": "第10课 红军家属优待证"
+        }
+      ]
+    },
+    {
+      "firstLevelTitle": "第三单元 红色家书",
+      "list": [
+        {
+          "secondLevelTitle": "第11课 找我们正当的事业——刘晖春给弟弟们的信"
+        },
+        {
+          "secondLevelTitle": "第12课 杀不尽头颅流不尽鲜血——邓贞谦狱中绝笔书"
+        }
+      ]
+    }
+  ]
+}

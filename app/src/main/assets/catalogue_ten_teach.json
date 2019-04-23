@@ -1,0 +1,46 @@
+{
+  "catalogueList": [
+    {
+      "firstLevelTitle": "第一讲 从江西红色历史深处走来——为什么要传承弘扬好红色文化",
+      "list": [
+        {
+          "secondLevelTitle": "一、红土圣地：江西红色文化的生成演进"
+        },
+        {
+          "secondLevelTitle": "二、独特的文化魅力：红色文化的品格"
+        },
+        {
+          "secondLevelTitle": "三、跨越时空的价值：红色文化走进新时代"
+        }
+      ]
+    },
+    {
+      "firstLevelTitle": "第二讲 以史为鉴更好前进——为什么中国革命历史是最好的“营养剂”",
+      "list": [
+        {
+          "secondLevelTitle": "一、让历史说话，用史实发言：马克思主义经典作家论中国革命历史"
+        },
+        {
+          "secondLevelTitle": "二、以史整今，肩迪后人：中国革命历史丰富的“营杀神"
+        },
+        {
+          "secondLevelTitle": "三、心有所依，情有所归：以正确的中国革命历史观反对历史虚无主义"
+        }
+      ]
+    },
+    {
+      "firstLevelTitle": "第三讲 为有牺牲多壮志敢教日月换新天——为什么农村包围城市是革命成功之路",
+      "list": [
+        {
+          "secondLevelTitle": "一、人间正道是沧桑：马克思主义经典作家论无产阶级革命道路"
+        },
+        {
+          "secondLevelTitle": "二、创业艰难百战多：中国革命道路的艰辛探索"
+        },
+        {
+          "secondLevelTitle": "三、万木霜天红烂漫：中国革命新路成功的奥秘"
+        }
+      ]
+    }
+  ]
+}
